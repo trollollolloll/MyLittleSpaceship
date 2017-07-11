@@ -11,6 +11,9 @@ namespace Part
         private int _maxHp;
         private int _curruntHp;
 
+        ///aaaa
+
+
 
         public Parts(Position position, int hp)
         {
